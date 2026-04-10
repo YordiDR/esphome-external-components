@@ -1,5 +1,0 @@
-wifi:
-  band_mode: 5GHZ
-
-packages:
-  - !include common.yaml
