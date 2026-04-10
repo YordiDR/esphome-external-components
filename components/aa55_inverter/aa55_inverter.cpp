@@ -1,7 +1,7 @@
 #include "esphome/core/log.h"
 #include "aa55_inverter.h"
-#include "esphome/components/switch/aa55_inverter_switch.h"
-#include "esphome/components/number/aa55_inverter_number.h"
+#include "switch/aa55_inverter_switch.h"
+#include "number/aa55_inverter_number.h"
 #include "../aa55_bus/aa55_bus.h"
 #include <iterator>
 #include <cmath>
